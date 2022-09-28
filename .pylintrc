@@ -1,0 +1,8 @@
+[MAIN]
+extension-pkg-allow-list=pygame
+
+[DESIGN]
+min-public-methods=1
+
+[BASIC]
+good-names=i, j, k, x, y,
